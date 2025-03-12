@@ -2,49 +2,49 @@
     "countries": [
       {
         "id": 1,
-        "name": "Australia",
+        "name": "Mexico",
         "cities": [
           {
-            "name": "Sydney, Australia",
-            "imageUrl": "sydney.jpg",
-            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+            "name": "Mexico City, Mexico",
+            "imageUrl": "mexico.jpg",
+            "description": "Unleash your spirit in Mexico City: Where ancient history meets vibrant culture!"
           },
           {
-            "name": "Melbourne, Australia",
-            "imageUrl": "melbourne.jpg",
-            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+            "name": "Gaudalajara, Mexico",
+            "imageUrl": "guadalajara.jpg",
+            "description": "Discover Guadalajara: The heart of mariachi and the birthplace of tequila!"
           }
         ]
       },
       {
         "id": 2,
-        "name": "Japan",
+        "name": "France",
         "cities": [
           {
-            "name": "Tokyo, Japan",
-            "imageUrl": "tokyo.jpg",
-            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+            "name": "Paris, France",
+            "imageUrl": "paris.jpg",
+            "description": "Fall in love with Paris: The City of Light, where every corner tells a story!"
           },
           {
-            "name": "Kyoto, Japan",
-            "imageUrl": "kyoto.jpg",
-            "description": "Known for its historic temples, gardens, and traditional tea houses."
+            "name": "Cannes , France",
+            "imageUrl": "cannes.jpg",
+            "description": "Experience glamour in Cannes: Where the stars shine bright on the French Riviera!"
           }
         ]
       },
       {
         "id": 3,
-        "name": "Brazil",
+        "name": "Morroco",
         "cities": [
           {
-            "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "rio.jpg",
-            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+            "name": "Casablanca, Morroco",
+            "imageUrl": "casablanca.jpg",
+            "description": "Discover Casablanca: Where rich history meets vibrant modernity in Morocco's cultural capital!"
           },
           {
-            "name": "São Paulo, Brazil",
-            "imageUrl": "sao-paulo.jpg",
-            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+            "name": "Marrakech, Morroco",
+            "imageUrl": "marrakech.jpg",
+            "description": "Immerse yourself in Marrakech: A vibrant tapestry of colors, spices, and timeless traditions!"
           }
         ]
       }
@@ -52,29 +52,29 @@
     "temples": [
       {
         "id": 1,
-        "name": "Angkor Wat, Cambodia",
-        "imageUrl": "angkor-wat.jpg",
-        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+        "name": "Teotihuacan, Mexico",
+        "imageUrl": "teotihuacan.jpg",
+        "description": "Explore Teotihuacan: Walk the ancient pathways of the City of Gods!"
       },
       {
         "id": 2,
-        "name": "Taj Mahal, India",
-        "imageUrl": "taj-mahal.jpg",
-        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+        "name": "Chichen Itza, Mexico",
+        "imageUrl": "chichen.jpg",
+        "description": "Unravel the mysteries of Chichen Itza: A timeless wonder of the ancient Mayan world!"
       }
     ],
     "beaches": [
       {
         "id": 1,
-        "name": "Bora Bora, French Polynesia",
-        "imageUrl": "bora-bora.jpg",
-        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+        "name": "Cancun, Mexico",
+        "imageUrl": "cancun.jpg",
+        "description": "Escape to Cancun: Paradise awaits with sun-kissed beaches and crystal-clear waters!"
       },
       {
         "id": 2,
-        "name": "Copacabana Beach, Brazil",
-        "imageUrl": "copacabana.jpg",
-        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+        "name": "Ixtapa, Mexico",
+        "imageUrl": "ixtapa.jpg",
+        "description": "Relax in Ixtapa: Your tropical haven of sun-soaked beaches and lush landscapes!"
       }
     ]
   }
