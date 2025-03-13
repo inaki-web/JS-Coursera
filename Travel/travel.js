@@ -70,3 +70,14 @@ function displayResults(results) {
         resultsDiv.appendChild(item);
     });
 }
+
+
+function reset(event) {
+    event.preventDefault();
+    let keyword = document.getElementById('results');
+    let recommendationElem = document.getElementById('results');
+
+    keyword.value = "";
+    recommendationElem.innerHTML = ""
+
+}
