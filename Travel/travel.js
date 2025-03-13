@@ -78,6 +78,6 @@ function reset(event) {
     let recommendationElem = document.getElementById('results');
 
     keyword.value = "";
-    recommendationElem.innerHTML = ""
+    resultsElem.innerHTML = ""
 
 }
