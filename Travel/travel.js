@@ -77,7 +77,7 @@ function reset(event) {
     let keyword = document.getElementById('results');
     let recommendationElem = document.getElementById('results');
 
-    keyword.value = "";
+    results.value = "";
     resultsElem.innerHTML = ""
 
 }
